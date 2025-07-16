@@ -34,16 +34,16 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 - Data pipelines, AI model deployment, containerization  
 - Statistical modelling and Bayesian inference  
 
-### 🚀 Projects
+### 🚀 Power-BI Reports (Anonomyzed)
 
-| Project Title | Description | Link |
-|---------------|-------------|------|
-| HP Anonymization | Regex-based anonymization for healthcare privacy | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/hpanon.pdf) |
-| SEN Anonymization | Special Educational Needs data anonymization | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/Sen%20anon.pdf) |
-| AG Anonymization | Anonymizing Attorney General legal docs | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/AG%20ANON.pdf) |
-| CP Anonymization | Court protection data pseudonymization | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/cpanon1.pdf) |
-| PL Anonymization | Planning legal case file anonymization | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
-| PC Anonymization | Privacy Case anonymization summary | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/pcanon.pdf) |
+| Project Title | Link |
+|---------------|------|
+| Legal (Large Scale Data) | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/hpanon.pdf) |
+| Financial/Legal | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/Sen%20anon.pdf) |
+| Debt Recovery  | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/AG%20ANON.pdf) |
+| Cohort Analysis | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/cpanon1.pdf) |
+| Duration Report - Tracking Case Movement | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
+| Legal | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/pcanon.pdf) |
 
 ### ⚡ Fun facts
 - I’m a big fan of anime 🎥 and football ⚽  
