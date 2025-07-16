@@ -9,7 +9,7 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 - **BSc Chemistry**, University of Manchester *(2017–2020)*  
   Specialized in analytical and organic chemistry with extensive lab and data skills  
   2:1 received
-  
+
 ### 💼 Past experience
 - **Katch Investment Group** – Developed end-to-end data workflows, from raw data extraction to report visualization; built and deployed ML models  
 - **IntelWise** – Leveraged Azure AI tools and Power BI dashboards; utilized Docker and Kubernetes to optimize data infrastructure  
@@ -34,7 +34,7 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 - Data pipelines, AI model deployment, containerization  
 - Statistical modelling and Bayesian inference  
 
-### 🚀 Power-BI Reports (Anonomyzed)
+### 🚀 Power-BI Reports (Anonymized)
 
 | Project Title | Link |
 |---------------|------|
@@ -45,10 +45,16 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 | Duration Report - Tracking Case Movement | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
 | Legal | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/pcanon.pdf) |
 
+### 📄 Resume
+
+You can view/download my full CV here:  
+👉 [Omari Ricketts – CV (PDF)](https://github.com/oricketts20/oricketts20/blob/main/omari.pdf)
+
 ### ⚡ Fun facts
 - I’m a big fan of anime 🎥 and football ⚽  
 - You'll find me in the gym when I'm not coding  
 - I'm a firm believer in the power of clean data and clean code!  
 - *Do the difficult things first to make life easier moving forward*
+
 
 
