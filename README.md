@@ -36,13 +36,19 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 
 ### 🚀 Projects
 
-| Project | Description | Link |
-|--------|-------------|------|
-| HP Anonymization | Data anonymization in healthcare using regex & Python | [PDF Report](https://github.com/oricketts20/oricketts20/blob/main/hpanon.pdf) |
+| Project Title | Description | Link |
+|---------------|-------------|------|
+| HP Anonymization | Regex-based anonymization for healthcare privacy | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/hpanon.pdf) |
+| SEN Anonymization | Special Educational Needs data anonymization | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/Sen%20anon.pdf) |
+| AG Anonymization | Anonymizing Attorney General legal docs | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/AG%20ANON.pdf) |
+| CP Anonymization | Court protection data pseudonymization | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/cpanon1.pdf) |
+| PL Anonymization | Planning legal case file anonymization | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
+| PC Anonymization | Privacy Case anonymization summary | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/pcanon.pdf) |
 
 ### ⚡ Fun facts
 - I’m a big fan of anime 🎥 and football ⚽  
 - You'll find me in the gym when I'm not coding  
 - I'm a firm believer in the power of clean data and clean code!  
-- *Do the difficult things first to make life easier moving forward — so this is my README file.*
+- *Do the difficult things first to make life easier moving forward*
+
 
