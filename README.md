@@ -45,10 +45,11 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 | Duration Report - Tracking Case Movement | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
 | Legal | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/pcanon.pdf) |
 
-### 📊 Data Projects (Python & Big Data)
+### 📊 Data Science Projects (Python & Big Data)
 
 | Project Title | Description | Link |
 |---------------|-------------|------|
+| **Deep Learning – Diabetes Classification** | Built a Convolutional Neural Network for classifying diabetic foot ulcer images. Leveraged PyTorch and transfer learning to achieve robust image classification performance. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/Deep%20Learning%20Diabetes%20Classification%20DFUC_fixed.ipynb) |
 | **Data Analysis Project** | Performed in-depth exploratory data analysis using Python (Pandas, Seaborn, Matplotlib). Includes hypothesis testing and actionable insights from structured datasets. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/Data%20Analysis%20Project.ipynb) |
 | **Big Data & Hypothesis Testing (PySpark)** | Utilized **PySpark** for large-scale data processing and statistical hypothesis testing. Demonstrates understanding of distributed computing principles and big data frameworks. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/PYSPARK%20Big%20Data%20project%20and%20Hypothesis%20Testing.ipynb) |
 
