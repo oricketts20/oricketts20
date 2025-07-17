@@ -54,7 +54,7 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 
 These projects highlight my ability to work across the Python data science stack and handle large datasets using Spark—critical skills for scalable, enterprise-grade data solutions.
 
-### 📄 Resume
+### 📄 CV
 
 You can view/download my full CV here:  
 👉 [Omari Ricketts – CV (PDF)](https://github.com/oricketts20/oricketts20/blob/main/omari.pdf)
