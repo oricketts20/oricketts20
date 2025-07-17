@@ -45,6 +45,15 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 | Duration Report - Tracking Case Movement | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
 | Legal | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/pcanon.pdf) |
 
+### 📊 Data Projects (Python & Big Data)
+
+| Project Title | Description | Link |
+|---------------|-------------|------|
+| **Data Analysis Project** | Performed in-depth exploratory data analysis using Python (Pandas, Seaborn, Matplotlib). Includes hypothesis testing and actionable insights from structured datasets. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/Data%20Analysis%20Project.ipynb) |
+| **Big Data & Hypothesis Testing (PySpark)** | Utilized **PySpark** for large-scale data processing and statistical hypothesis testing. Demonstrates understanding of distributed computing principles and big data frameworks. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/PYSPARK%20Big%20Data%20project%20and%20Hypothesis%20Testing.ipynb) |
+
+These projects highlight my ability to work across the Python data science stack and handle large datasets using Spark—critical skills for scalable, enterprise-grade data solutions.
+
 ### 📄 Resume
 
 You can view/download my full CV here:  
@@ -55,6 +64,7 @@ You can view/download my full CV here:
 - You'll find me in the gym when I'm not coding  
 - I'm a firm believer in the power of clean data and clean code!  
 - *Do the difficult things first to make life easier moving forward*
+
 
 
 
