@@ -16,7 +16,7 @@ I enjoy building **predictive models** using both classic **machine learning tec
   Distinction received
 - **BSc Chemistry**, University of Manchester *(2017–2020)*
  First Exposure to the power of data
-  2:1 received
+ 2:1 received
 
 ### 💼 Past experience
 - **Katch Investment Group** – Developed end-to-end data workflows, from raw data extraction to report visualization; built and deployed ML models  
