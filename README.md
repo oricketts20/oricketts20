@@ -2,7 +2,7 @@
 
 I’m **Omari Ricketts** — a passionate and versatile **Data Scientist**/**Reporting Analyst** who loves turning data into impactful stories. With a solid background in analytics, machine learning, and data engineering, I’ve had the chance to work across financial (legal), tech startups, and commercial environments. 
 
-In these fast-paced settings, I’ve **owned end-to-end data processes** — everything from digging into data extraction and transformation, to deploying models and creating dashboards for some exciting **MULTI MILLION POUND CAMPAIGNS** 🚀 (see reports below).
+In these settings, I’ve **owned end-to-end data processes** — everything from digging into data extraction and transformation, to deploying models and creating dashboards for some exciting **MULTI MILLION POUND CAMPAIGNS** 🚀 (see reports below).
 
 I enjoy building **predictive models** using both classic **machine learning techniques** and cutting-edge **deep learning architectures**, including **Vision Transformers (ViTs)** and **Convolutional Neural Networks (CNNs)**.
 
