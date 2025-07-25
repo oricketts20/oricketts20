@@ -14,8 +14,8 @@ I enjoy building **predictive models** using both classic **machine learning tec
 - **MSc Data Science**, Manchester Metropolitan University *(2023–2024)*  
   Awarded a prestigious scholarship by the Office for Students for excellence and commitment to diversity in AI & Data Science  
   Distinction received
-- **BSc Chemistry**, University of Manchester *(2017–2020)*  
-  Specialized in analytical and organic chemistry with extensive lab and data skills  
+- **BSc Chemistry**, University of Manchester *(2017–2020)*
+- First Exposure to the power of data
   2:1 received
 
 ### 💼 Past experience
