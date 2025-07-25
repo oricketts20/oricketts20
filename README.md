@@ -52,12 +52,21 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 | **Deep Learning – Diabetes Classification** | Built a Convolutional Neural Network for classifying diabetic foot ulcer images. Leveraged PyTorch and transfer learning to achieve robust image classification performance. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/Deep%20Learning%20Diabetes%20Classification%20DFUC_fixed.ipynb) |
 | **Data Analysis Project** | Performed in-depth exploratory data analysis using Python (Pandas, Seaborn, Matplotlib). Includes hypothesis testing and actionable insights from structured datasets. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/Data%20Analysis%20Project.ipynb) |
 | **Big Data & Hypothesis Testing (PySpark)** | Utilized **PySpark** for large-scale data processing and statistical hypothesis testing. Demonstrates understanding of distributed computing principles and big data frameworks. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/PYSPARK%20Big%20Data%20project%20and%20Hypothesis%20Testing.ipynb) |
+| **Model Explainability – PDP, ICE, and SHAP** | Explored model interpretability techniques including Partial Dependence Plots, Individual Conditional Expectation, and SHAP values to explain complex machine learning models and improve transparency. | [View Notebook](https://github.com/oricketts20/oricketts20/blob/main/PDP%2C%20ICE%20and%20SHAP.ipynb) |
 
 These projects highlight my ability to work across the Python data science stack and handle large datasets using Spark—critical skills for scalable, enterprise-grade data solutions.
 
 ### 📄 CV
 
 You can view/download my full CV here:  
+👉 [Omari Ricketts – CV (PDF)](https://github.com/oricketts20/oricketts20/blob/main/omari.pdf)
+
+### ⚡ Fun facts
+- I’m a big fan of anime 🎥 and football ⚽  
+- You'll find me in the gym when I'm not coding  
+- I'm a firm believer in the power of clean data and clean code!  
+- *Do the difficult things first to make life easier moving forward*
+
 👉 [Omari Ricketts – CV (PDF)](https://github.com/oricketts20/oricketts20/blob/main/omari.pdf)
 
 ### ⚡ Fun facts
