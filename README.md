@@ -36,7 +36,7 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 
 ### 🚀 Power-BI Reports (Anonymized)
 
-All of the reports below were independently produced by me as part of full end-to-end reporting pipelines. I set up the **ETL processes** from various data sources—whether through **API access**, **direct downloads from CRMs or customer portals**, or via **email ingestion**. Data was cleaned and preprocessed using **Python**, uploaded into **SQL Server Management Studio (SSMS)**, and transformed for reporting using **Power BI**. This work involved heavy use of **Python**, **DAX**, **SQL**, and **M Query**.
+All of the reports below were independently produced by me as part of full end-to-end reporting pipelines. I set up the **ETL processes** from various data sources - whether through **API access**, **direct downloads from CRMs or customer portals**, or via **email ingestion**. Data was cleaned and preprocessed using **Python**, uploaded into **SQL Server Management Studio (SSMS)**, and transformed for reporting using **Power BI**. This work involved heavy use of **Python**, **DAX**, **SQL**, and **M Query**.
 
 | Project Title | Link |
 |---------------|------|
