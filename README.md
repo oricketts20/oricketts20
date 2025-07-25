@@ -17,23 +17,6 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 - **Medicines Discovery Catapult** – Handled clinical RNA data in a UKAS-accredited lab; automated liquid handling with Hamilton robotics; worked with LIMS systems to manage and validate test results  
 - **HM Revenue & Customs** – Ensured accuracy of UK pension records by auditing and resolving data discrepancies
 
-### 🔭 I’m currently working on
-- Improving automation of processes (i.e. through Power Automate / Python scripting) at **Katch Investment Group**  
-- Creating dynamic **Power BI dashboards** for real-time business intelligence  
-- Designing scalable data workflows using **Azure AI tools**  
-- Enhancing infrastructure efficiency through **Docker** and **Kubernetes**
-
-### 🌱 I’m currently learning
-- Deepening my expertise in **NLP**, **transformer architectures**, and **Convolutional Neural Networks**  
-- Building and integrating **RESTful APIs** and leveraging **Azure AI services**  
-- Expanding my knowledge from my MSc studies on Big data technologies like **Apache Spark** and **distributed computing** for real life applications
-
-### 💬 Ask me about
-- Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow)  
-- Power BI, SQL, DAX, M Query  
-- Data pipelines, AI model deployment, containerization  
-- Statistical modelling and Bayesian inference  
-
 ### 🚀 Power-BI Reports (Anonymized)
 
 All of the reports below were independently produced by me as part of full end-to-end reporting pipelines. I set up the **ETL processes** from various data sources - whether through **API access**, **direct downloads from CRMs or customer portals**, or via **email ingestion**. Data was cleaned and preprocessed using **Python**, uploaded into **SQL Server Management Studio (SSMS)**, and transformed for reporting using **Power BI**. This work involved heavy use of **Python**, **DAX**, **SQL**, and **M Query**.
@@ -69,6 +52,22 @@ These projects highlight my ability to work across the Python data science stack
 
 You can view/download my full CV here:  
 👉 [Omari Ricketts – CV (PDF)](https://github.com/oricketts20/oricketts20/blob/main/omari.pdf)
+### 🔭 I’m currently working on
+- Improving automation of processes (i.e. through Power Automate / Python scripting) at **Katch Investment Group**  
+- Creating dynamic **Power BI dashboards** for real-time business intelligence  
+- Designing scalable data workflows using **Azure AI tools**  
+- Enhancing infrastructure efficiency through **Docker** and **Kubernetes**
+
+### 🌱 I’m currently learning
+- Deepening my expertise in **NLP**, **transformer architectures**, and **Convolutional Neural Networks**  
+- Building and integrating **RESTful APIs** and leveraging **Azure AI services**  
+- Expanding my knowledge from my MSc studies on Big data technologies like **Apache Spark** and **distributed computing** for real life applications
+
+### 💬 Ask me about
+- Python (NumPy, Pandas, scikit-learn, PyTorch, TensorFlow)  
+- Power BI, SQL, DAX, M Query  
+- Data pipelines, AI model deployment, containerization  
+- Statistical modelling and Bayesian inference  
 
 ### ⚡ Fun facts
 - I’m a big fan of anime 🎥 and football ⚽  
