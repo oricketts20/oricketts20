@@ -15,7 +15,8 @@ I enjoy building **predictive models** using both classic **machine learning tec
   Awarded a prestigious scholarship by the Office for Students for excellence and commitment to diversity in AI & Data Science  
   Distinction received
 - **BSc Chemistry**, University of Manchester *(2017–2020)*
- First Exposure to the power of data
+ First Exposure to the power of data  
+ 
  2:1 received
 
 ### 💼 Past experience
