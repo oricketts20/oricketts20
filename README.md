@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there! 👋
 
 I’m **Omari Ricketts** — a passionate and versatile **Data Scientist**/**Reporting Analyst** who loves turning data into impactful stories. With a solid background in analytics, machine learning, and data engineering, I’ve had the chance to work across financial (legal), tech startups, and commercial environments. 
 
