@@ -1,12 +1,5 @@
-<span style="font-size: 18px">
+I'm **Omari Ricketts**, a passionate and versatile **Data Scientist**/**Reporting Analyst** with a strong foundation in analytics, machine learning, and data engineering. I’ve worked across financial(legal), tech startups, and commercial environments - often in fast-paced settings where I’ve **owned end-to-end data processes**, from data extraction and transformation to model deployment and dashboard reporting for **MULTI MILLION POUND CAMPAIGNS** (See reports below). My work includes building **predictive models** using both traditional **machine learning techniques** and advanced **deep learning architectures** such as **Vision Transformers (ViTs)** and **Convolutional Neural Networks (CNNs)**. This GitHub serves as a **portfolio showcasing some of my work and capabilities** across Python, Power BI, Pyspark and more, and more - demonstrating how I can make use of data.
 
-I'm **Omari Ricketts**, a passionate and versatile **Data Scientist**/**Reporting Analyst** with a strong foundation in analytics, machine learning, and data engineering. I’ve worked across financial(legal), tech startups, and commercial environments - often in fast-paced settings where I’ve **owned end-to-end data processes**, from data extraction and transformation to model deployment and dashboard reporting for <strong>multi million pound campaigns</strong> (See reports below). 
-
-My work includes building **predictive models** using both traditional **machine learning techniques** and advanced **deep learning architectures** such as **Vision Transformers (ViTs)** and **Convolutional Neural Networks (CNNs)**. 
-
-This GitHub serves as a **portfolio showcasing some of my work and capabilities** across Python, Power BI, Pyspark and more, and more - demonstrating how I can make use of data to drive real impact.
-
-</span>
 
 
 
