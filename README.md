@@ -14,8 +14,6 @@ I'm **Omari Ricketts**, a passionate and versatile **Data Scientist** with a str
 - **Katch Investment Group** – Developed end-to-end data workflows, from raw data extraction to report visualization; built and deployed ML models  
 - **IntelWise** – Leveraged Azure AI tools and Power BI dashboards; utilized Docker and Kubernetes to optimize data infrastructure  
 - **GlobalData PLC** – Delivered actionable insights through market research and quarterly trend reports; conducted primary and secondary data collection and interviews with industry professionals  
-- **Medicines Discovery Catapult** – Handled clinical RNA data in a UKAS-accredited lab; automated liquid handling with Hamilton robotics; worked with LIMS systems to manage and validate test results  
-- **HM Revenue & Customs** – Ensured accuracy of UK pension records by auditing and resolving data discrepancies
 
 ### 🚀 Power-BI Reports (Anonymized)
 
