@@ -44,7 +44,7 @@ All of the reports below were independently produced by me as part of full end-t
 | **Statistical Analysis & Hypothesis Testing (R)** | Performed statistical hypothesis testing and analysis using R, including descriptive statistics, ANOVA, Levene’s test, and Tukey’s HSD, to evaluate differences in coating impairment after abrasion. | [View R Script](https://github.com/oricketts20/oricketts20/blob/main/Statistical%20Analysis%2C%20Hypothesis%20Testing%20-%20%20R%20Coding%20Language.R) |
 
 
-These projects highlight my ability to work across the Python data science stack and handle large datasets using Spark—critical skills for scalable, enterprise-grade data solutions.
+These projects highlight my ability to work across the Python data science stack and handle large datasets using Spark - critical skills for scalable, enterprise-grade data solutions.
 
 ### 📄 CV
 
