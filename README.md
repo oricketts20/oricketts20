@@ -29,11 +29,11 @@ All of the reports below were independently produced by me as part of full end-t
 
 | Project Title | Link |
 |---------------|------|
+| Duration Report - Tracking Case Movement | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
 | Legal (Large Scale Data) | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/hpanon.pdf) |
 | Financial/Legal | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/Sen%20anon.pdf) |
 | Debt Recovery  | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/AG%20ANON.pdf) |
 | Cohort Analysis | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/cpanon1.pdf) |
-| Duration Report - Tracking Case Movement | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
 | Legal | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/pcanon.pdf) |
 
 ### 📊 Data Science Projects (Python, R & Big Data)
