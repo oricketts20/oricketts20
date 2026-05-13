@@ -53,7 +53,7 @@ These projects highlight my ability to work across the Python data science stack
 ### CV
 
 You can view/download my full CV here:  
-[Omari Ricketts – CV (PDF)](https://github.com/oricketts20/oricketts20/blob/main/omari.pdf)
+[Omari Ricketts – CV (PDF)]([https://github.com/oricketts20/oricketts20/blob/main/omari.pdf](https://github.com/oricketts20/oricketts20/blob/main/Omari_Ricketts_CV%20May%202026.pdf))
 
 ### I'm currently working on
 - Improving automation of processes (i.e. through Power Automate / Python scripting) at **Katch Investment Group**  
