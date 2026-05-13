@@ -27,6 +27,7 @@ All of the reports below were independently produced by me as part of full end-t
 | Project Title | Link |
 |---------------|------|
 | Duration Report - Tracking Case Movement | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/planon.pdf) |
+| Duration Report - Multiple Claim Types | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/document_pdf.pdf) |
 | Legal (Large Scale Data) | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/hpanon.pdf) |
 | Financial/Legal | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/Sen%20anon.pdf) |
 | Debt Recovery  | [View PDF](https://github.com/oricketts20/oricketts20/blob/main/AG%20ANON.pdf) |
